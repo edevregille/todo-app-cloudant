@@ -1,0 +1,8 @@
+applications:
+# the name of the app needs to be unique 
+- name:    	todoappmanu123 
+  host:      todoappmanu123
+  command:   node server
+  memory:    128M
+services:
+- todo-couch-db
