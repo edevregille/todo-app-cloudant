@@ -1,13 +1,10 @@
 # Deploy a Node.js app on Bluemix with Cloudant Database
 
-You need an account on the Bluemix platform (http://www.ibm.com/bluemix)
-You need the command line Cloud Foundry installed (https://www.ng.bluemix.net/docs/starters/install_cli.html)
-
-Install the Cloud Foundry Command Line Interface on your local machine
+You need an account on the Bluemix platform (http://www.ibm.com/bluemix) and you need the command line Cloud Foundry installed (https://www.ng.bluemix.net/docs/starters/install_cli.html).
 
 Clone locally the application on your machine
 ```
-  git clone https://github.com/edevregille/node-todo.git
+  git clone https://github.com/edevregille/todo-app-cloudant.git
 ```
 
 Login on the Cloud Foundry platform (UK data center API hereunder)
